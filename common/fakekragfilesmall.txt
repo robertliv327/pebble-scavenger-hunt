@@ -1,0 +1,3 @@
+latitude=43.722600|longitude=-72.134200|kragId=86DA|clue=It has a million stories, but cannot tell them.
+latitude=43.712552|longitude=-72.287233|kragId=87DA|clue=It's big and it's greeen.
+latitude=48.222222|longitude=-12.222222|kragId=88DA|clue=Jay likes their smoothies.

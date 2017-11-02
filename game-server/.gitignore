@@ -1,0 +1,7 @@
+*~
+*.o
+core
+gameserver
+message_handler
+opCode_handler
+opCode_handler_tester

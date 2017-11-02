@@ -1,0 +1,11 @@
+latitude=43.7226|longitude=-72.1342|kragId=86DA|clue=It has a million stories, but cannot tell them.
+latitude=43.712552|longitude=-72.287233|kragId=87DA|clue=It's big and it's greeen.
+latitude=48.222222|longitude=-12.222222|kragId=88DA|clue=Jay likes their smoothies.
+latitude=48.222222|longitude=-12.222222|kragId=81DA|clue=Dumb clue.
+latitude=48.222222|longitude=-12.222222|kragId=82DA|clue=Dumb clue 2.
+latitude=48.222222|longitude=-12.222222|kragId=83DA|clue=Dumb clue 3.
+latitude=48.222222|longitude=-12.222222|kragId=84DA|clue=Dumb clue 4.
+latitude=48.222222|longitude=-12.222222|kragId=85DA|clue=Dumb clue 5.
+latitude=48.222222|longitude=-12.222222|kragId=89DA|clue=Dumb clue 6.
+latitude=48.222222|longitude=-12.222222|kragId=91DA|clue=super Dumb clue.
+latitude=48.222222|longitude=-12.222222|kragId=92DA|clue=super Dumb clue 2.
